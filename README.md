@@ -1,0 +1,2 @@
+# StudentGradeMangerSystem
+使用java-swing开发的带图形界面的学生信息管理系统 包括增删改查学生信息
